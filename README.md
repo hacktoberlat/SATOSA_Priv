@@ -1,6 +1,6 @@
 # SATOSA_Priv
 
-This repository is a fork of the SATOSA repo, with a custom plugin implementation for use with specific apps developed with a new auth protocol under testing for Hacktober apps. The following README is a copy of the upstream SATOSA source. For documentation regarding the custom implementation refering to internal documentation.
+This repository is a fork of the SATOSA repo, with a custom plugin implementation for use with specific apps developed with a new auth protocol under testing for Hacktober apps housed in Dockerhub at hacktoberlat/opensource_authenticationprotoc. The following README is a copy of the upstream SATOSA source. For documentation regarding the custom implementation refering to internal documentation.
 ------------------
 [![PyPI](https://img.shields.io/pypi/v/SATOSA.svg)](https://pypi.python.org/pypi/SATOSA)
 
